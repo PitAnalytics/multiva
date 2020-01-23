@@ -1,0 +1,11 @@
+{
+
+    "url":"http://34.74.223.83/multiva",
+    "mysql":{
+        "host":"localhost",
+        "user":"root",
+        "password":"Pit2018mtv#@",
+        "database":"BALANZA"
+    }
+
+}
